@@ -1,3 +1,4 @@
+<img src="./Black and Yellow Web Developer LinkedIn Banner (2).png" alt="Web Developer Banner" style="width:100%; max-height:300px; object-fit:cover;">
 <h1>Hi 👋, I'm Divyansh Jaiswal</h1>
 <p>🎓 Student at IIIT Vadodara | 💻 Aspiring Web Developer | DSA |🚀 Tech Enthusiast </p>
 <h2>🚀 Languages and Tools I Use</h2>
