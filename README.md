@@ -1,7 +1,10 @@
 <img src="./Black and Yellow Web Developer LinkedIn Banner (2).png" alt="Web Developer Banner" style="width:100%; max-height:300px; object-fit:cover;">
 <h1>Hi 👋, I'm Divyansh Jaiswal</h1>
 <p>🎓 Student at IIIT Vadodara | 💻 Aspiring Web Developer | DSA |🚀 Tech Enthusiast </p>
+<img src="./packman.gif" alt="Pacman Animation" style="display: block; margin: 20px auto; width: 100px; height: auto;" />
+
 <h2>🚀 Languages and Tools I Use</h2>
+
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
