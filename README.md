@@ -20,8 +20,8 @@
 
 <h3>🎓 Student at IIIT Vadodara | 💻 Aspiring Web Developer | DSA | 🚀 Tech Enthusiast</h3>
 
-[![Portfolio](https://img.shields.io/badge/To_Infinite-Portfolio?style=for-the-badge&logo=globe&label=Portfolio&link=https%3A%2F%2Fme.toinfinite.dev%2F)](https://)
-[![Download Resume](https://img.shields.io/badge/resume-DivyanshJaiswal:_Frontend_developer-green?style=for-the-badge)]()
+[![Portfolio](https://img.shields.io/badge/To_Infinite-Portfolio?style=for-the-badge&logo=globe&label=Portfolio&link=https%3A%2F%2Fme.toinfinite.dev%2F)]()
+[![Download Resume](https://img.shields.io/badge/resume-Divyansh Jaiswal:_Frontend_developer-green?style=for-the-badge)]()
 
 
 - 🔭 I'm currently working on **improving my web development skills and dsa**
@@ -29,8 +29,6 @@
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/codehashira23)
 
 -   🔰 Learning Nest.js and microservices
--   ❤️ Love to learn new technologies
--   🔮 My future plan is to start a business and take it to international level
 -   🔭 Looking for new opportunity
 - 📫 How to reach me **divyanshjaiswal314@gmail.com**
 
