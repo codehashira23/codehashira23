@@ -23,9 +23,9 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/codehashira23)
 
-- � Ask me about **C, C++, HTML, CSS**
+- � Ask me about **C, C++, HTML, CSS,JS,TS,Tailwind CSS,React.js,Next.js,Node.js,Express.js,MongoDB,MySQL,Postman,VSCode,Vercel,Windows,MD**
 
-- 📫 How to reach me **divyansh.jaiswal@example.com**
+- 📫 How to reach me **divyanshjaiswal314@gmail.com**
 
 <br/>
 
@@ -41,6 +41,18 @@
 <a href="#" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
 <a href="#" target="_blank"><img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="42" height="42" /></a>
 <a href="#" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
+<a href="#" target="_blank"><img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" alt="postman" width="42" height="42" /></a>
+<a href="#" target="_blank"><img src="https://www.vectorlogo.zone/logos/vscode/vscode-icon.svg" alt="vscode" width="42" height="42" /></a>
+<a href="#" target="_blank"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="42" height="42" /></a>
+<a href="#" target="_blank"><img src="https://www.vectorlogo.zone/logos/react/react-icon.svg" alt="react" width="42" height="42" /></a>
+<a href="#" target="_blank"><img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="next" width="42" height="42" /></a>
+<a href="#" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind css" width="42" height="42" /></a>
+<a href="#" target="_blank"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="42" height="42" /></a>
+<a href="#" target="_blank"><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="expressjs" width="42" height="42" /></a>
+<a href="#" target="_blank"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="42" height="42" /></a>
+
+
+
 </p>
 
 <h2>📊 GitHub Stats</h2>
@@ -50,9 +62,3 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=codehashira23&show_icons=true&locale=en&layout=compact&theme=radical" alt="codehashira23" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codehashira23&theme=radical" alt="codehashira23" /></a></p>
 
-<!-- Snake animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codehashira23/codehashira23/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codehashira23/codehashira23/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/codehashira23/codehashira23/output/github-contribution-grid-snake.svg">
-</picture>
