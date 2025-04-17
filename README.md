@@ -41,10 +41,10 @@
 <a href="#" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
 <a href="#" target="_blank"><img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="42" height="42" /></a>
 <a href="#" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
-<a href="#" target="_blank"><img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" alt="postman" width="42" height="42" /></a>
-<a href="#" target="_blank"><img src="https://www.vectorlogo.zone/logos/vscode/vscode-icon.svg" alt="vscode" width="42" height="42" /></a>
+<!-- <a href="#" target="_blank"><img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" alt="postman" width="42" height="42" /></a> -->
+<a href="#" target="_blank"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="42" height="42" /></a>
 <a href="#" target="_blank"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="42" height="42" /></a>
-<a href="#" target="_blank"><img src="https://www.vectorlogo.zone/logos/react/react-icon.svg" alt="react" width="42" height="42" /></a>
+<a href="#" target="_blank"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="42" height="42" /></a>
 <a href="#" target="_blank"><img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="next" width="42" height="42" /></a>
 <a href="#" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind css" width="42" height="42" /></a>
 <a href="#" target="_blank"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="42" height="42" /></a>
