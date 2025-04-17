@@ -21,7 +21,7 @@
 <h3>🎓 Student at IIIT Vadodara | 💻 Aspiring Web Developer | DSA | 🚀 Tech Enthusiast</h3>
 
 [![Portfolio](https://img.shields.io/badge/To_Infinite-Portfolio?style=for-the-badge&logo=globe&label=Portfolio&link=https%3A%2F%2Fme.toinfinite.dev%2F)]()
-[![Download Resume](https://img.shields.io/badge/resume-Divyansh Jaiswal:_Frontend_developer-green?style=for-the-badge)]()
+[![Download Resume](https://img.shields.io/badge/resume-Divyansh_Jaiswal:_Frontend_developer-green?style=for-the-badge)]()
 
 
 - 🔭 I'm currently working on **improving my web development skills and dsa**
