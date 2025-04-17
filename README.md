@@ -1,7 +1,7 @@
 <a href="https://github.com/codehashira23">
   <img
     alt="Divyansh Jaiswal"
-    src="./Black and Yellow Web Developer LinkedIn Banner (2).png"
+    src="./assets/github-banner.jpg"
     width="100%"
   />
 </a>
@@ -14,17 +14,24 @@
 </span>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<a href="https://github.com/codehashira23" target="_blank"><img align='right' src='./packman.gif' width='150'></a>
+
+# Hi there, I'm Divyansh Jaiswal 👋
+
+
 <h3>🎓 Student at IIIT Vadodara | 💻 Aspiring Web Developer | DSA | 🚀 Tech Enthusiast</h3>
 
-- 🔭 I'm currently working on **improving my web development skills**
+[![Portfolio](https://img.shields.io/badge/To_Infinite-Portfolio?style=for-the-badge&logo=globe&label=Portfolio&link=https%3A%2F%2Fme.toinfinite.dev%2F)](https://)
+[![Download Resume](https://img.shields.io/badge/resume-DivyanshJaiswal:_Frontend_developer-green?style=for-the-badge)]()
 
-- 🌱 I'm currently learning **DSA and Web Development**
+
+- 🔭 I'm currently working on **improving my web development skills and dsa**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/codehashira23)
 
-- � Ask me about **C, C++, HTML, CSS,JS,TS,Tailwind CSS,React.js,Next.js,Node.js,Express.js,MongoDB,MySQL,Postman,VSCode,Vercel,Windows,MD**
-
+-   🔰 Learning Nest.js and microservices
+-   ❤️ Love to learn new technologies
+-   🔮 My future plan is to start a business and take it to international level
+-   🔭 Looking for new opportunity
 - 📫 How to reach me **divyanshjaiswal314@gmail.com**
 
 <br/>
@@ -62,3 +69,18 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=codehashira23&show_icons=true&locale=en&layout=compact&theme=radical" alt="codehashira23" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codehashira23&theme=radical" alt="codehashira23" /></a></p>
 
+
+
+
+<!--END_SECTION:waka-->
+
+## Connect with me:
+
+[![mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=divyanshjaiswal314@gmail.com)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyanshjaiswal23)
+<!-- [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/divyanshjaiswal23) -->
+
+<!--START_SECTION:activity-->
+
+[website]: https://toinfinite.dev
+[linkedin]: https://www.linkedin.com/in/divyanshjaiswal23
